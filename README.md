@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 
 [![https://github.com/wangxudong123](https://github-readme-stats.vercel.app/api?username=wangxudong123&show_icons=true&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/wangxudong123)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxudong123&layout=compact)](https://github.com/wangxudong123)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxudong123&bg_color=30,e96443,904e95)](https://github.com/wangxudong123/)
