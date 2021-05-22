@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![https://github.com/wangxudong123](https://github-readme-stats.vercel.app/api?username=wangxudong123&show_icons=true&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/wangxudong123)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangxudong123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxudong123&hide=css,vue,stylus,javascript&bg_color=30,4568DC,B06AB3&title_color=fff&text_color=fff" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxudong123&bg_color=30,e96443,904e95)](https://github.com/wangxudong123/)
