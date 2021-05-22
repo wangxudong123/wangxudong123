@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**wangxudong123/wangxudong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxudong123&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![https://github.com/wangxudong123](https://github-readme-stats.vercel.app/api?username=wangxudong123&show_icons=true&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/wangxudong123)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxudong123&layout=compact)](https://github.com/wangxudong123)
