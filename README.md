@@ -14,6 +14,12 @@
 - ⚡ Fun fact: ...
 
 <a href="https://sm.ms/image/SKb4avzcqHt6juZ" target="_blank"><img src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+<a href="https://sm.ms/image/SKb4avzcqHt6juZ" target="_blank"><img src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+<a href="https://sm.ms/image/SKb4avzcqHt6juZ" target="_blank"><img src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+<a href="https://sm.ms/image/SKb4avzcqHt6juZ" target="_blank"><img src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+<a href="https://sm.ms/image/SKb4avzcqHt6juZ" target="_blank"><img src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+<a href="https://sm.ms/image/SKb4avzcqHt6juZ" target="_blank"><img src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxudong123&hide=css,vue,stylus,javascript&bg_color=30,4568DC,B06AB3&title_color=fff&text_color=fff" />
 </a>
