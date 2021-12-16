@@ -1,3 +1,6 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 ### Hi there 👋
 
 <a href="https://sm.ms/image/kPJB2bC7tQaORXe" target="_blank"><img src="https://i.loli.net/2021/05/22/kPJB2bC7tQaORXe.png" width="25" height="20"></a>
