@@ -3,12 +3,7 @@
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
 
 ### Hi there 👋
-<div>
-  <h3 align="center"> 
-    Visitors Count<br>
-    <img align="center" src="https://profile-counter.glitch.me/lovepoem/count.svg" />
-  </h3>
-</div>
+
 <a href="https://sm.ms/image/kPJB2bC7tQaORXe" target="_blank"><img src="https://i.loli.net/2021/05/22/kPJB2bC7tQaORXe.png" width="25" height="20"></a>
 This is my profile:
 
